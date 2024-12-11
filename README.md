@@ -1,6 +1,3 @@
-Here is the `README.md` file in markdown format:
-
-```markdown
 # Auto-CheatSheet
 
 Automate the creation of high-resolution, customizable cheatsheets from multiple PDFs. This tool processes PDF documents, dynamically arranges pages into a cheatsheet format, and allows users to customize the cheatsheet settings. Ideal for students creating compact study aids or professionals summarizing key documents.
@@ -126,6 +123,3 @@ Contributions are welcome! Please open an issue or submit a pull request to sugg
 
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
-```
-
-Copy and paste this content into your `README.md` file. Let me know if you need further adjustments!
